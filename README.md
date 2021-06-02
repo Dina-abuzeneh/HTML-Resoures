@@ -30,26 +30,25 @@ f we wanted the line to stand by itself, we could specify that it is a paragraph
 ## Semantics
  In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 
-## Semantics in JavaScript
-In JavaScript, consider a function that takes a string parameter, and returns an <li> element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?
- 
- 
-##Semantic elements in JS
+## Semantic elements in JS
 These are some of the roughly 100 semantic elements available:
 
-1- <article>
-2- <aside>
-3- <details>
-4- <figcaption>
-5- <figure>
-6- <footer>
-7- <header>
-8- <main>
-9- <mark>
-10- <nav>
-11- <section>
-12- <summary>
-13- <time>
+- [X] article
+
+- [X] footer
+
+- [X] header
+
+- [X] main
+
+- [X] nav
+
+- [X] section
+
+- [X] summary
+
+- [X] time
+
  
  
  
@@ -61,17 +60,7 @@ HTML (HyperText Markup Language) is the most basic building block of the Web. It
 
 HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
  
- ## Beginner's tutorials
-Our HTML Learning Area features multiple modules that teach HTML from the ground up — no previous knowledge required.
-
-Introduction to HTML
-This module sets the stage, getting you used to important concepts and syntax such as looking at applying HTML to text, how to create hyperlinks, and how to use HTML to structure a web page.
-Multimedia and embedding
-This module explores how to use HTML to include multimedia in your web pages, including the different ways that images can be included, and how to embed video, audio, and even entire other webpages.
-HTML tables
-Representing tabular data on a webpage in an understandable, accessible way can be a challenge. This module covers basic table markup, along with more complex features such as implementing captions and summaries.
-HTML forms
-Forms are a very important part of the Web — these provide much of the functionality you need for interacting with websites, e.g. registering and logging in, sending feedback, buying products, and more. This module gets you started with creating the client-side/front-end parts of forms.
-Use HTML to solve common problems
-Provides links to sections of content explaining how to use HTML to solve very common problems when creating a web page: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.
+ :smile:
+ 
+ :smile:
  
